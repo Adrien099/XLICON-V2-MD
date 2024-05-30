@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 global.owner = [
-  ['918360234087', 'WHITE', true], 
+  ['917439317360', 'ADRIEN', true], 
   ['233208179431', 'Abraham Dwamena', true],
   ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
   ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
@@ -52,11 +52,11 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'XLICON-V2'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
+global.packname = 'ADRIEN' 
+global.author = '🗿' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
+global.igfg = '' 
+global.dygp = 'https://chat.whatsapp.com/LYLdNZc3krGJKpakriA16S'
 global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
